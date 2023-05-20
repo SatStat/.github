@@ -20,7 +20,7 @@ Além disso, propomos uma plataforma complementar ao SatStat, o SatStatManager, 
 
 Segue em anexo a arquitetura planejada para a solução:
 
-![Arquitetura da Solução](./docs/SatStatArchitecture.jpg)
+![Arquitetura da Solução](./docs/architecture.jpg)
 
 Nossa aplicação foi dividida em vários repositórios, sendo eles:
 
