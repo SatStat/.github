@@ -2,6 +2,8 @@
 
 Esse projeto faz parte do hackathon Inatel App Challenge 2023, onde desenvolvemos uma aplicação de monitoramento do consumo da rede local do usuário.
 
+Separamos 4 dias para planejamento e configuração do ambiente e 3 dias para desenvolvimento
+
 ## Table of Contents
 
 - [Descrição do Projeto](#descrição-do-projeto)
