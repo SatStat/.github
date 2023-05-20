@@ -36,7 +36,7 @@ Também criamos um repositório e projeto para o servidor da plataforma de Geren
 
 Também planejamos um termo de uso para a aplicação, com base na LGPD, que pode ser encontrado a seguir:
 
-- [Termos de Uso](./docs/lgpd.md)
+- [Termos de Uso](/profile/docs/lgpd.md)
 
 ## Funcionalidades
 
